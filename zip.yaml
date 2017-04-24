@@ -1,10 +1,10 @@
 # Validators for US Zip Codes
-94040: true
-94062: true
-00501: true
-940O2: false # Letter O instead of 0
-940400: false # 6 digits instead of 5
-1: false
-505: false
-00001: false # Invalid zip string with leading zeros
-pqrst: false # Only letters
+"94040": true
+"94062": true
+"00501": true
+"940O2": false # Letter O instead of 0
+"940400": false # 6 digits instead of 5
+"1": false
+"505": false
+"00001": false # Invalid zip string with leading zeros
+"pqrst": false # Only letters
